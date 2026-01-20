@@ -1,0 +1,8 @@
+{
+  "buildCommand": "cd webaigen && npm run build",
+  "outputDirectory": "webaigen/.next",
+  "installCommand": "cd webaigen && npm install",
+  "framework": "nextjs",
+  "rootDirectory": "webaigen"
+}
+
